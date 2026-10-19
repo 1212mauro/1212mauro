@@ -21,12 +21,13 @@ and game theory.
 
 | Project | What it is |
 |---|---|
+| [multi-agent-deep-research](https://github.com/1212mauro/multi-agent-deep-research) | **BSc thesis.** Four AutoGen agents on Gemini 2.5 Pro (researcher with a custom Google Search tool, verifier, summarizer, user proxy) that research questions on the web; 2–9× lower latency and ~3.6× lower cost than a GPT-4o baseline |
 | [FaceGenerationGAN](https://github.com/1212mauro/FaceGenerationGAN) | Conditional WGAN-GP in PyTorch that generates 48×48 face images for six target emotions (team project) |
 | [TAR_Project](https://github.com/1212mauro/TAR_Project) | Big Five personality classification from essays: classic ML vs. fine-tuned BERT vs. an attention-gated BERT + Empath hybrid (team project) |
 
 ## Tech
 
-**ML / AI:** PyTorch · Hugging Face · scikit-learn · LangChain · OpenAI GPT APIs  
+**ML / AI:** PyTorch · Hugging Face · scikit-learn · LangChain · AutoGen · OpenAI and Gemini APIs  
 **Languages:** Python · Java · JavaScript · C · C++ · C#  
 **Web:** Spring · React · PostgreSQL  
 **Tools:** Git · Docker · Linux
